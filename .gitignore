@@ -1,0 +1,10 @@
+# Generated experiment output and local downloads
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+downloaded/
+raw/
+rebuilt_pools/
+reproduced/
+manuscript_assets/
